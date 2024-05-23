@@ -1,0 +1,1 @@
+This project gives us a review of the analysis of customers who have left the business due to one or two reasons and shows us where to work on in order to attract more customers and prevent more attrition.
